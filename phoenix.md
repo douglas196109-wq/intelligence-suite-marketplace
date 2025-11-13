@@ -23,3 +23,11 @@ OEMs, Defense Contractors, Simulation Labs, Investors
     Bundle Sealed: 90%
   </div>
 </div>
+## Programs in the Intelligence Suite Marketplace
+
+- [Phoenix](phoenix.md) — Tier 1 simulator for Aviation, Military, Auto Racing, OEM
+- [VitalCore](vitalcore.md) — Natural health intelligence, epidemic prediction, fraud overlays
+- [ReflexQuant](reflexquant.md) — Override scoring, sentiment drift, investor mapping
+- [ClaimSentenial](claimsentenial.md) — Audit‑proof claims intelligence, fraud detection bundles
+- [Humanitran](humanitran.md) — Humanitarian overlays, disaster response datasets
+- [HiveMindEngine (HME)](hme.md) — Sovereign R&D engine, certifier‑grade testing, valuation uplift
